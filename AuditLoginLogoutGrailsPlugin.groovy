@@ -16,6 +16,10 @@ class AuditLoginLogoutGrailsPlugin {
 Brief summary/description of the plugin.
 '''
 
+    //Dependencies
+    def dependsOn = ["spring-security-core":"1.2.7.3",
+                     "spring-events": "1.2"]
+
     // URL to the plugin's documentation
     def documentation = "http://grails.org/plugin/audit-login-logout"
 
