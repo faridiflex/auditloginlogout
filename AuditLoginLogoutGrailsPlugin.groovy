@@ -10,8 +10,8 @@ class AuditLoginLogoutGrailsPlugin {
 
     // TODO Fill in these fields
     def title = "Audit Login Logout Plugin" // Headline display name of the plugin
-    def author = "Your name"
-    def authorEmail = ""
+    def author = "Mohd. Farid, Puneet Behl"
+    def authorEmail = "farid.iflex@gmail.com, puneet.behl007@gmail.com"
     def description = '''\
 Brief summary/description of the plugin.
 '''
